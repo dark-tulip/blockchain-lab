@@ -1,0 +1,89 @@
+{
+	"name": "first-network",
+	"version": "1.0.0",
+	"client": {
+		"tlsEnable": true,
+		"adminCredential": {
+			"id": "exploreradmin",
+			"password": "exploreradminpw"
+		},
+		"enableAuthentication": false,
+		"organization": "Org1MSP",
+		"connection": {
+			"timeout": {
+				"peer": {
+					"endorser": "300"
+				},
+				"orderer": "300"
+			}
+		}
+	},
+	"channels": {
+		"mychannel": {
+			"peers": {
+				"peer0.org1.example.com": {},
+				"peer0.org2.example.com": {}
+			},
+			"orderers": [
+				"orderer.example.com"
+			],
+			"connection": {
+				"timeout": {
+					"peer": {
+						"endorser": "6000",
+						"eventHub": "6000",
+						"eventReg": "6000"
+					}
+				}
+			}
+		}
+	},
+	"organizations": {
+		"Org1MSP": {
+			"mspid": "Org1MSP",
+			"adminPrivateKey": {
+				"path": "/tmp/crypto/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/5e3dc8e3a25c751dcddf88c55a6e4b4fd1ae7dd6c2b56906ce695c2e5876dc59_sk"
+			},
+			"peers": [
+				"peer0.org1.example.com"
+			],
+			"signedCert": {
+				"path": "/tmp/crypto/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts/cert.pem"
+			}
+		},
+		"Org2MSP": {
+			"mspid": "Org2MSP",
+			"adminPrivateKey": {
+				"path": "/tmp/crypto/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/keystore/b979a757d0c7aa9ee7c001c501a98d0dd76d6ad2d5caa4240344393361fb41b1_sk"
+			},
+			"peers": [
+				"peer0.org2.example.com"
+			],
+			"signedCert": {
+				"path": "/tmp/crypto/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/signcerts/cert.pem"
+			}
+		}
+	},
+	"orderers": {
+		"orderer.example.com": {
+			"url": "grpcs://orderer.example.com:7050",
+			"tlsCACerts": {
+				"path": "/tmp/crypto/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
+			}
+		}
+	},
+	"peers": {
+		"peer0.org1.example.com": {
+			"url": "grpcs://peer0.org1.example.com:7051",
+			"tlsCACerts": {
+				"path": "/tmp/crypto/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
+			}
+		},
+		"peer0.org2.example.com": {
+			"url": "grpcs://peer0.org2.example.com:9051",
+			"tlsCACerts": {
+				"path": "/tmp/crypto/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt"
+			}
+		}
+	}
+}

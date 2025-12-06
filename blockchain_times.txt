@@ -1,0 +1,300 @@
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]
+/usr/bin/time: illegal option -- f
+usage: time [-al] [-h | -p] [-o file] utility [argument ...]

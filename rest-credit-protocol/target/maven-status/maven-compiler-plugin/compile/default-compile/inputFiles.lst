@@ -1,0 +1,9 @@
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/AccountDto.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/CreditApiApplication.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/CreditController.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/CreditFabricService.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/DepositRequest.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/FabricConfig.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/LoanDto.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/RepayRequest.java
+/Users/tansh/edu/fabric-samples-advance-topics/rest-credit-protocol/src/main/java/ru/amvera/TransferRequest.java

@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+fabric:
+  mspId: Org1MSP
+  channel: mychannel
+  chaincode: chaincode
+  contract: CreditContract
+  connectionProfile: ./connection-org1.json
+  cryptoPath: ../test-network/organizations/peerOrganizations/org1.example.com
+  user:
+    name: appUser
+    cert: ${fabric.cryptoPath}/users/Admin@org1.example.com/msp/signcerts/cert.pem
+    keyDir: ${fabric.cryptoPath}/users/Admin@org1.example.com/msp/keystore

@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group = 'ru.amvera'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    // Hyperledger Fabric chaincode Java
+    implementation 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.5.0'
+
+    // Genson JSON library
+    implementation 'com.owlike:genson:1.6'
+}
+
+test {
+    useJUnitPlatform()
+}
